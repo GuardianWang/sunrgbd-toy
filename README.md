@@ -23,8 +23,8 @@ In SUNRGBD, y is in/out-ward,
 - name
 - 2d bbox top left x, int
 - 2d bbox top left y, int
-- 2d bbox bottom right x, int
-- 2d bbox bottom right y, int
+- 2d bbox bias to bottom right x, int
+- 2d bbox bias to bottom right y, int
 - 3d bbox center x, meter
 - 3d bbox center y, meter
 - 3d bbox center z, meter
