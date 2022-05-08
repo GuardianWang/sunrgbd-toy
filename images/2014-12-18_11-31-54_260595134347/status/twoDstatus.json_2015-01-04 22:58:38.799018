@@ -1,0 +1,14 @@
+[
+	{
+		"status": "waiting_label",
+		"time": 0,
+		"assignmentId": "ADMIN",
+		"workerId": "ADMIN"
+	},
+	{
+		"status": "submit_mturk",
+		"time": 0,
+		"assignmentId": "ADMIN",
+		"workerId": "ADMIN"
+	}
+]
